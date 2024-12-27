@@ -35,6 +35,7 @@ int main() {
     unsigned long long ull = 10; // 8 bytes (64 bits) %llu
 
     // Print statements
+    // Format Specifiers
     printf("char a: %c\n", a);
     printf("char b: %s\n", b);
     printf("float pi: %f\n", pi);
