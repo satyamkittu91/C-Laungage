@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int main() {
+    // Bitwise operators in C
+    // special operators that are used to perform operations on individual bits of an integer.
+    // These operators are commonly used in low-level programming, such as device drivers and embedded systems.
+    // knowing binary is important for this topic.
     int x = 5; // 00000101 in binary
     int y = 3; // 00000011 in binary
 
